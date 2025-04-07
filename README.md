@@ -1,5 +1,7 @@
 # MCP UUID サーバー
 
+[![smithery badge](https://smithery.ai/badge/@aki-kii/mcp-uuid)](https://smithery.ai/server/@aki-kii/mcp-uuid)
+
 ## 概要
 このMCPサーバーは、UUIDを生成するためのシンプルなサービスを提供します。
 
@@ -9,6 +11,16 @@
 - Claude Desktop
 
 ## インストール方法
+
+### Installing via Smithery
+
+To install UUID Generator for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@aki-kii/mcp-uuid):
+
+```bash
+npx -y @smithery/cli install @aki-kii/mcp-uuid --client claude
+```
+
+### Manual Installation
 ```bash
 # 依存関係のインストール
 uv pip sync
