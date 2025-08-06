@@ -3,6 +3,10 @@
 ## 概要
 このMCPサーバーは、UUIDを生成するためのシンプルなサービスを提供します。
 
+<a href="https://glama.ai/mcp/servers/@aki-kii/mcp-uuid">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@aki-kii/mcp-uuid/badge" alt="UUID Server MCP server" />
+</a>
+
 ## 環境要件
 - Python 3.10以上
 - MCP(Model Context Protocol)パッケージ v1.2.0以上
